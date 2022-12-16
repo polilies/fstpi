@@ -1,0 +1,7 @@
+__pychache__
+Include
+Lib
+Scripts
+SQLModel
+pyvenv.cfg
+.DS_Store
